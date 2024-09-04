@@ -55,7 +55,8 @@ What operations can you perform on a single linked list
     - Applications
     - Deletion
 
-
+    slow pointer - cur->next than cur->next;
+    fast pointer - cur->next->next; (Jumping passed nodes)
 */
 
 
