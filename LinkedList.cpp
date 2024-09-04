@@ -46,7 +46,7 @@ Linked List - Dynamic Size, inserations and deletions are efficient, Since memor
 Types of Linked List 
     - Single Linked List - One Direction
     - Double Linked List - Can go back and forward
-    - Circular Linked List
+    - Circular Linked List - one direction but instead of NULL the last node goes back to the start (no head)
 
 What operations can you perform on a single linked list
     - Traversal
@@ -54,18 +54,7 @@ What operations can you perform on a single linked list
         Insert at the beginning of the linked list (The node that is inserted is the new Head)
     - Applications
     - Deletion
-    
-    struct LinkedListDouble {
-        int data;
-        LinkedListDouble *prev;
-        LinkedListDouble *next;
-        LinkedListDouble(){}
-        LinkedListDouble(int val) {
-            this->data = val;
-            this->prev=NULL;
-            this->next=NULL;
-        }
-    }
+
 
 */
 
