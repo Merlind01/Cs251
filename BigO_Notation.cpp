@@ -26,8 +26,18 @@ than f(n) = O h(n) <-correct statement
 Big O (n^2)                              [][][][][][][]  
 
 
+for (i = 0; i <n; i++) {
+    for (j = 0; j <p; j++) {
+
+    }
+
+}
+        -   Big O (n * p)
 
 
-
+    Worst Case O(n!) , O(c^n), O(n^c)
+    Bad Case O(nlog(n))
+    Fair Case O(n)
+    Best Case O(C) - of a constant 
 
 */
