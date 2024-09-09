@@ -18,6 +18,16 @@ f(n) = Og(n)
 [11, 5, 9, 3.....6]
     using the worst case to find 6 the time complexity would be O(n) - Big O the length of the List
 
+if f(n) = O g(n) <-wrong statement 
+and g(n) = O h(n)
+than f(n) = O h(n) <-correct statement
+
+    If using nested for loop to create a [][][][][][][]  Suppose n is the length for both loops
+Big O (n^2)                              [][][][][][][]  
+
+
+
+
 
 
 */
