@@ -60,7 +60,13 @@ Insertion Sort
         2 5 7 3 -> Move 3 in front of 2 
         2 3 5 7
     
-
+Sorting Alg | Time           | Space
+Bubble        | O(n^2)       | O(1)
+Selection     | O(n^2)       | O(1)
+Insertion     | O(n^2)       | O(1)
+Merge         | O(nlog(n))   | O(n)
+Heap          | O(nlog(n))   | O(1)
+Quick         | O(nlog(n))   | O(nlog(n))
 
 
 */
