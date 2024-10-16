@@ -24,4 +24,8 @@ In-Order - Left then parent then Right (after all the way left, parent, then rig
 Post-Order - Left then Right then Parent [2 5 6 9 8 3 7]
 
 
+Binary Search Tree
+Everynode should be greater than its left child but higher than its right child
+left < parent > right
+
 */
