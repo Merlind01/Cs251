@@ -27,7 +27,24 @@ Unique data structures / Important topics
 
  - Fractals
 
+Final Review
 
-
+- No coding 
+- Basic Data types
+   int
+   pointers (what it holds/does
+-algethrim
+   method to solve a problem (works everytime)
+- stacks
+- queues 
+- linked list (made up of /operation)
+- how to make stacks/queues
+- recurssion
+- binary trees (made up of)
+- binary search/brute force search
+- different sorts (bubble/heap etc)
+- directed graph
+- graph traversal (shortest path etc)
+- weighed graphs (cost involved to traverse)
 
 */
