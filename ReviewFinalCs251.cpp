@@ -32,18 +32,47 @@ Final Review
 - No coding 
 - Basic Data types
    int
-   pointers (what it holds/does
+   pointers (what it holds/does)
+      holds an address that can be pointed to a value (that value can always be found using the pointer)
 -algethrim
    method to solve a problem (works everytime)
-- stacks
-- queues 
+- stacks LIFO
+     push
+     pop
+     top
+     empty
+     size
+- queues FIFO
+     push
+     pop
+     front
+     back
+     empty
+     size
 - linked list (made up of /operation)
+     Traversal
+     insertion
+     delettion
+     sorting
 - how to make stacks/queues
-- recurssion
+     stack<int> myStack;
+     
+     #include <queue>   
+          Queue<int> myQueue;
+- recurssion (repeats the function until the condition is satisified used in MaxHeap)
 - binary trees (made up of)
+      childs nodes
+      parent nodes
+      poitners connecting nodes together 
+      root node K(top most node)
 - binary search/brute force search
 - different sorts (bubble/heap etc)
+      bubble sort
+      quick sort
+      heap sort
+      merge sort
 - directed graph
+      
 - graph traversal (shortest path etc)
 - weighed graphs (cost involved to traverse)
 
